@@ -1,0 +1,13 @@
+# It contains all the configs required in the project
+
+artifacts:
+  ARTIFACTS_DIR: artifacts
+  TRAINED_MODEL_DIR: model
+
+source_download_dirs:
+  - path_to_data_1
+  - path_to_data_1
+
+local_data_dirs:
+  - path_to_local_data_1
+  - path_to_local_data_2
